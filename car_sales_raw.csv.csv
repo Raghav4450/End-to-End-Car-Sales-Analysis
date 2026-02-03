@@ -1,0 +1,1001 @@
+Car_ID,Brand,Model,Year,Fuel_Type,Transmission,Price,Mileage,Engine_CC,Seating_Capacity,Service_Cost
+1,Toyota,Innova,2024,CNG,Manual,2020000,27.3,800,4,24100
+2,Kia,EV6,2023,Diesel,Manual,1770000,16.4,2500,7,18800
+3,Maruti Suzuki,Dzire,2016,Petrol,Manual,3430000,17.6,2000,6,24700
+4,Honda,Amaze,2019,Petrol,Manual,1610000,19.2,2500,6,23300
+5,Honda,City,2015,Electric,Manual,1840000,15.8,1000,5,5800
+6,Kia,Sonet,2020,Petrol,Manual,2780000,21.5,1800,7,23700
+7,Toyota,Glanza,2019,CNG,Manual,2270000,29.7,1500,7,13300
+8,Volkswagen,Taigun,2017,CNG,Manual,2770000,20.2,1800,4,10200
+9,Renault,Lodgy,2015,Petrol,Manual,2180000,10.5,1800,5,18900
+10,Kia,EV6,2019,CNG,Automatic,990000,16.1,1800,6,15400
+11,Honda,Jazz,2022,CNG,Automatic,3010000,17.2,1500,4,8500
+12,Honda,Civic,2018,Petrol,Manual,2000000,10.8,2000,6,7800
+13,Renault,Kiger,2022,Petrol,Automatic,820000,29.6,1000,5,19100
+14,Honda,Jazz,2022,CNG,Manual,3020000,25.3,2500,7,7300
+15,Mahindra,Scorpio,2017,Diesel,Manual,1280000,11.1,2500,6,23300
+16,Tata Motors,Punch,2016,Diesel,Automatic,490000,19.2,2500,5,7300
+17,Toyota,Fortuner,2016,CNG,Automatic,540000,14.9,1000,4,9500
+18,Skoda,Kushaq,2023,Petrol,Automatic,3360000,21.8,1200,7,21100
+19,Tata Motors,Tiago,2015,CNG,Manual,910000,13.5,1200,6,15400
+20,Skoda,Superb,2017,CNG,Manual,1780000,26.9,1200,7,24800
+21,Honda,Jazz,2024,Diesel,Manual,1430000,24.8,1500,4,5600
+22,Toyota,Fortuner,2022,Diesel,Manual,2160000,29.7,2000,5,22600
+23,Toyota,Camry,2023,Electric,Automatic,2890000,12.2,1200,5,23500
+24,Mahindra,XUV700,2016,Electric,Automatic,1470000,21.3,1500,5,8800
+25,Toyota,Glanza,2020,Electric,Automatic,2520000,16.5,2000,7,5600
+26,Tata Motors,Punch,2024,Petrol,Manual,2650000,29.2,1200,7,8200
+27,Maruti Suzuki,Ertiga,2015,Electric,Automatic,940000,15.6,1000,4,24300
+28,Mahindra,XUV700,2019,Electric,Manual,2770000,13.8,2500,6,11400
+29,Tata Motors,Altroz,2018,Electric,Manual,2820000,21.4,2500,5,15500
+30,Renault,Kiger,2022,Electric,Automatic,1200000,22.5,1200,4,15100
+31,Tata Motors,Harrier,2023,Diesel,Manual,1530000,13.9,2500,6,13200
+32,Kia,Carnival,2022,Diesel,Automatic,950000,10.1,1500,5,14800
+33,Toyota,Innova,2018,CNG,Manual,1010000,25,800,6,12400
+34,Honda,Amaze,2021,CNG,Automatic,2370000,29.4,2500,6,17000
+35,Volkswagen,Polo,2016,CNG,Automatic,2590000,28.8,1500,7,12400
+36,Maruti Suzuki,Swift,2019,Diesel,Manual,1920000,11.9,1500,7,16600
+37,Kia,EV6,2020,CNG,Automatic,1990000,16,1000,7,5100
+38,Hyundai,Verna,2019,Diesel,Automatic,1730000,23,1800,7,19300
+39,Skoda,Slavia,2017,Diesel,Automatic,3290000,10.7,1800,6,6800
+40,Toyota,Glanza,2015,Diesel,Automatic,520000,14.5,1800,6,8300
+41,Tata Motors,Harrier,2021,Diesel,Manual,1260000,25.9,1500,4,24400
+42,Tata Motors,Harrier,2024,Diesel,Automatic,500000,16.8,2000,4,14000
+43,Tata Motors,Nexon,2022,CNG,Manual,1860000,19.9,1200,5,14300
+44,Tata Motors,Punch,2021,CNG,Automatic,410000,12.9,1500,7,19400
+45,Mahindra,Scorpio,2022,CNG,Automatic,1290000,25.9,1800,6,16600
+46,Maruti Suzuki,Dzire,2018,CNG,Manual,2340000,27.6,1500,7,12200
+47,Honda,Civic,2024,Diesel,Manual,550000,23.3,2000,4,14700
+48,Honda,Amaze,2022,Petrol,Automatic,960000,20.7,1000,7,21400
+49,Volkswagen,Virtus,2021,Diesel,Manual,450000,14,1200,4,8300
+50,Volkswagen,Tiguan,2020,Petrol,Manual,3160000,18.7,1800,6,5500
+51,Skoda,Octavia,2015,CNG,Automatic,2900000,13.5,2500,4,23600
+52,Kia,Seltos,2023,Electric,Manual,1410000,12.6,2000,5,6800
+53,Mahindra,Bolero,2019,Petrol,Automatic,2480000,22,1200,4,23400
+54,Kia,Carnival,2020,Diesel,Manual,1320000,21,1000,6,9100
+55,Skoda,Kushaq,2023,Electric,Automatic,430000,22.9,1500,6,18600
+56,Toyota,Innova,2023,Electric,Manual,3410000,24,1500,5,16500
+57,Toyota,Innova,2018,Electric,Manual,890000,24.7,1200,7,8400
+58,Mahindra,Thar,2015,Electric,Automatic,1860000,25.1,2000,7,23800
+59,Skoda,Slavia,2016,Diesel,Automatic,3070000,11.6,1800,5,23000
+60,Toyota,Camry,2016,Diesel,Manual,690000,26.5,1200,4,21400
+61,Hyundai,i10,2024,Petrol,Automatic,2830000,17.2,800,5,14500
+62,Tata Motors,Nexon,2020,Diesel,Manual,3370000,11.1,800,7,11100
+63,Mahindra,Scorpio,2016,CNG,Automatic,490000,29.5,1500,4,5300
+64,Kia,Carnival,2022,Electric,Manual,2970000,12.8,1000,6,13100
+65,Tata Motors,Nexon,2018,Petrol,Manual,1780000,13,2500,7,17900
+66,Kia,Sonet,2016,Diesel,Manual,2190000,25.2,1200,5,7100
+67,Skoda,Superb,2020,Diesel,Manual,2300000,22.6,2500,4,11700
+68,Kia,Sonet,2020,Diesel,Automatic,2650000,11.4,1200,6,24700
+69,Hyundai,Venue,2021,Electric,Automatic,1680000,24.1,2500,6,24000
+70,Skoda,Rapid,2015,Electric,Automatic,1700000,15.8,800,4,23500
+71,Toyota,Glanza,2023,Diesel,Automatic,1630000,27.1,800,4,17700
+72,Hyundai,Creta,2020,Electric,Manual,1720000,23,2500,6,21900
+73,Honda,WR-V,2021,Electric,Automatic,940000,25.7,1500,4,9900
+74,Mahindra,Thar,2022,Diesel,Manual,3090000,26.2,1500,6,15800
+75,Toyota,Glanza,2016,Diesel,Manual,3260000,10.2,1000,4,6300
+76,Mahindra,XUV300,2022,Petrol,Automatic,2150000,13,1800,6,5300
+77,Tata Motors,Punch,2019,Petrol,Manual,1720000,17.3,2000,5,6900
+78,Hyundai,i20,2018,Diesel,Automatic,2070000,15.5,2500,5,19700
+79,Honda,Civic,2024,Diesel,Automatic,2040000,27.6,2500,5,14700
+80,Tata Motors,Altroz,2018,CNG,Manual,1990000,19.9,800,6,21600
+81,Skoda,Octavia,2020,Diesel,Automatic,820000,28.7,2500,5,11700
+82,Volkswagen,Taigun,2020,Diesel,Manual,1080000,14.3,1800,4,24200
+83,Maruti Suzuki,Swift,2017,Petrol,Automatic,1510000,12,1000,4,14200
+84,Toyota,Urban Cruiser,2022,Diesel,Automatic,850000,15.3,1800,5,10200
+85,Skoda,Kushaq,2021,Electric,Automatic,1450000,27.6,1000,5,16700
+86,Kia,Carnival,2022,Petrol,Automatic,1930000,19.7,2000,5,18300
+87,Kia,EV6,2016,Diesel,Automatic,1310000,11.9,2000,6,22700
+88,Renault,Lodgy,2016,CNG,Manual,520000,26.4,1800,5,14600
+89,Toyota,Fortuner,2016,CNG,Manual,2560000,29.3,1000,4,22900
+90,Hyundai,i20,2017,Petrol,Automatic,1790000,10.5,1800,7,8800
+91,Volkswagen,Vento,2018,Electric,Manual,1770000,13.6,1200,5,18000
+92,Hyundai,i20,2015,Diesel,Manual,2750000,22.6,1000,4,18900
+93,Volkswagen,Taigun,2021,CNG,Manual,3240000,24.1,1000,4,10400
+94,Tata Motors,Nexon,2023,Electric,Automatic,1210000,20.8,2000,7,9000
+95,Toyota,Innova,2018,Electric,Manual,2360000,20.2,800,5,13000
+96,Volkswagen,Polo,2018,CNG,Manual,3300000,10.6,1500,6,24200
+97,Honda,Civic,2017,CNG,Automatic,1610000,18.2,800,4,23600
+98,Maruti Suzuki,Baleno,2020,Diesel,Manual,1370000,26,1200,7,13400
+99,Hyundai,Verna,2017,Diesel,Automatic,3320000,16.6,1000,6,10300
+100,Hyundai,Creta,2020,Electric,Automatic,2470000,14.2,1000,5,23100
+101,Toyota,Innova,2020,Diesel,Manual,2010000,29.9,1800,5,9200
+102,Maruti Suzuki,Ertiga,2015,Diesel,Automatic,3270000,22.9,1000,4,7600
+103,Skoda,Kushaq,2019,Petrol,Automatic,2730000,20.7,800,4,23300
+104,Tata Motors,Tiago,2019,Diesel,Automatic,1930000,10.5,2000,6,11400
+105,Mahindra,Thar,2021,Petrol,Manual,2390000,21.7,2000,4,12400
+106,Tata Motors,Altroz,2015,Petrol,Manual,2060000,28.8,1800,6,10500
+107,Toyota,Urban Cruiser,2018,Electric,Automatic,3150000,11.8,1500,6,17300
+108,Skoda,Kushaq,2018,Electric,Automatic,2960000,16,2000,5,21700
+109,Tata Motors,Nexon,2020,Diesel,Automatic,2240000,25.1,1000,5,13600
+110,Kia,Carens,2022,Petrol,Manual,1370000,23.5,2500,7,5100
+111,Honda,Amaze,2024,Diesel,Manual,2950000,18.1,800,6,6700
+112,Honda,Amaze,2018,Diesel,Manual,2130000,17.8,800,5,19900
+113,Maruti Suzuki,Baleno,2018,Electric,Manual,1330000,24.4,1200,7,10100
+114,Maruti Suzuki,Ertiga,2020,Petrol,Automatic,3020000,20.5,1500,4,5100
+115,Maruti Suzuki,Baleno,2023,Petrol,Manual,990000,27.4,800,4,16700
+116,Maruti Suzuki,Baleno,2023,CNG,Manual,3240000,25.6,1000,7,13600
+117,Hyundai,Venue,2023,Petrol,Manual,3430000,29.4,1000,4,23700
+118,Honda,Amaze,2018,Electric,Manual,1280000,12,1000,7,20300
+119,Honda,Jazz,2019,CNG,Automatic,1220000,11.1,1000,5,12600
+120,Toyota,Innova,2017,Electric,Automatic,1720000,22,1800,4,20900
+121,Kia,Sonet,2018,Diesel,Automatic,2640000,25.6,1500,6,5900
+122,Honda,Jazz,2016,CNG,Automatic,1800000,27.7,2000,6,17400
+123,Honda,WR-V,2023,Electric,Automatic,3470000,13,800,7,10200
+124,Toyota,Innova,2021,Diesel,Manual,1730000,22.2,1200,5,21500
+125,Skoda,Slavia,2023,Electric,Manual,2660000,16.9,2000,4,18400
+126,Toyota,Urban Cruiser,2021,CNG,Automatic,2960000,16.7,2000,5,8300
+127,Renault,Lodgy,2023,Petrol,Automatic,1460000,28.7,2000,6,23200
+128,Honda,City,2017,Electric,Manual,3360000,26,1500,5,8000
+129,Skoda,Kushaq,2018,Diesel,Automatic,2890000,22,1800,5,22900
+130,Renault,Kiger,2015,Petrol,Manual,1490000,19.2,1200,7,16500
+131,Kia,EV6,2023,Diesel,Automatic,1420000,29.6,1500,6,18400
+132,Renault,Kwid,2019,CNG,Automatic,1040000,12.2,1200,7,9500
+133,Mahindra,Scorpio,2019,Diesel,Manual,1300000,27.8,2000,4,23200
+134,Maruti Suzuki,Dzire,2024,CNG,Manual,3370000,25.8,1200,7,11500
+135,Skoda,Rapid,2023,Diesel,Automatic,2040000,27,2000,7,13600
+136,Honda,Civic,2019,Petrol,Manual,2190000,17.4,800,7,10200
+137,Tata Motors,Harrier,2021,Petrol,Automatic,2520000,25.7,2500,4,19800
+138,Kia,Carnival,2024,Diesel,Manual,1820000,23.9,2000,5,20800
+139,Mahindra,XUV700,2017,Diesel,Automatic,480000,17.5,2500,6,24900
+140,Hyundai,Verna,2021,Electric,Manual,2480000,20.8,800,5,5500
+141,Skoda,Kushaq,2024,CNG,Automatic,2490000,27.8,1500,7,7500
+142,Maruti Suzuki,Ertiga,2015,CNG,Automatic,2860000,28,1500,5,16700
+143,Honda,City,2018,Electric,Automatic,3370000,14.4,1200,6,15300
+144,Kia,Carens,2022,CNG,Automatic,2010000,22.7,2000,6,16900
+145,Honda,City,2018,CNG,Manual,1610000,17.7,1000,6,12300
+146,Skoda,Superb,2024,Electric,Manual,2440000,17.7,1500,6,6400
+147,Honda,Civic,2022,Diesel,Automatic,2700000,18.1,1800,5,22900
+148,Toyota,Glanza,2017,Electric,Manual,3190000,27.7,1800,4,21100
+149,Renault,Duster,2023,Petrol,Manual,3440000,17.9,1200,7,6600
+150,Volkswagen,Vento,2018,Electric,Manual,1430000,24.6,1500,4,8000
+151,Volkswagen,Polo,2023,CNG,Manual,3310000,24.2,2000,4,23300
+152,Mahindra,XUV700,2024,Petrol,Automatic,2120000,24.9,1800,7,23500
+153,Volkswagen,Polo,2016,Diesel,Automatic,3120000,19.5,1000,7,9400
+154,Honda,Civic,2022,Electric,Automatic,1140000,29.9,800,5,11600
+155,Renault,Lodgy,2023,Diesel,Automatic,1410000,19.1,2000,6,8200
+156,Hyundai,i20,2023,Electric,Manual,2800000,23.4,800,5,16600
+157,Skoda,Superb,2023,Electric,Automatic,3300000,10.6,2500,4,9600
+158,Volkswagen,Taigun,2016,Electric,Manual,1330000,10.9,1800,7,22900
+159,Kia,Sonet,2015,Petrol,Automatic,1750000,23.3,1200,4,13100
+160,Kia,Seltos,2019,CNG,Automatic,1980000,18.8,2500,4,10400
+161,Mahindra,Bolero,2023,Petrol,Manual,3400000,29.7,1200,5,15800
+162,Kia,Seltos,2023,CNG,Manual,2860000,26.7,1000,4,9600
+163,Skoda,Kushaq,2024,Electric,Automatic,2250000,21.4,1800,6,23800
+164,Honda,Amaze,2023,Diesel,Automatic,590000,28,1500,4,13000
+165,Volkswagen,Vento,2019,CNG,Manual,2350000,21.7,1500,4,16300
+166,Mahindra,XUV700,2016,Petrol,Automatic,3460000,10.9,1800,6,12800
+167,Renault,Kiger,2015,Petrol,Manual,2270000,16.9,800,4,12200
+168,Renault,Kwid,2024,Petrol,Manual,1460000,18.4,1200,6,17100
+169,Toyota,Glanza,2015,Diesel,Manual,970000,15.9,2500,7,21400
+170,Renault,Kiger,2017,Electric,Automatic,3390000,24.5,800,5,23000
+171,Mahindra,XUV300,2021,Diesel,Automatic,430000,22.4,1800,4,18100
+172,Renault,Kwid,2018,CNG,Manual,2020000,10.4,1000,4,11600
+173,Mahindra,Scorpio,2015,Electric,Manual,1920000,26,1500,7,5500
+174,Mahindra,Scorpio,2016,Electric,Manual,2640000,16.3,2500,5,24600
+175,Maruti Suzuki,Ertiga,2016,CNG,Automatic,3100000,19.5,1200,5,15300
+176,Hyundai,i10,2019,CNG,Manual,1540000,12.1,1500,7,11900
+177,Skoda,Superb,2015,CNG,Manual,2390000,22.7,1000,6,16100
+178,Volkswagen,Vento,2022,Petrol,Automatic,1030000,11.1,2500,7,16700
+179,Mahindra,Bolero,2016,CNG,Manual,550000,10.4,1000,7,24200
+180,Volkswagen,Vento,2022,Petrol,Manual,2270000,24.3,2500,6,24700
+181,Toyota,Urban Cruiser,2019,Petrol,Manual,590000,16.3,2500,6,24000
+182,Maruti Suzuki,Baleno,2021,Electric,Automatic,980000,27.8,1800,7,16900
+183,Kia,Carens,2021,Electric,Automatic,500000,29.6,1800,6,12800
+184,Hyundai,Verna,2022,Electric,Automatic,2040000,28.2,1500,7,18900
+185,Toyota,Innova,2015,Electric,Manual,1540000,25.9,1200,4,24600
+186,Tata Motors,Tiago,2016,Electric,Manual,1840000,12.6,800,7,24600
+187,Honda,Amaze,2020,Diesel,Manual,3150000,22,1000,4,22600
+188,Kia,Seltos,2015,Petrol,Manual,1290000,23.9,1000,7,17000
+189,Volkswagen,Polo,2017,CNG,Automatic,2610000,14,1800,7,9800
+190,Kia,EV6,2019,Diesel,Automatic,2780000,23.6,1000,5,14100
+191,Tata Motors,Tiago,2017,Petrol,Manual,1840000,29.7,1500,6,15500
+192,Renault,Triber,2021,Diesel,Automatic,2710000,18.6,1500,4,7300
+193,Mahindra,Bolero,2021,Petrol,Manual,1930000,10.1,1800,4,6700
+194,Hyundai,Creta,2019,Electric,Automatic,1510000,13.7,800,6,10200
+195,Hyundai,Venue,2019,CNG,Manual,2470000,29.2,1000,7,12800
+196,Mahindra,Thar,2024,Diesel,Automatic,3280000,20.1,1500,5,9400
+197,Toyota,Fortuner,2024,Petrol,Automatic,2030000,15.7,1800,7,23000
+198,Honda,Amaze,2018,Diesel,Automatic,1010000,22.2,2000,5,8100
+199,Honda,Civic,2015,Electric,Automatic,2860000,18.7,2500,4,16600
+200,Renault,Lodgy,2019,Electric,Manual,2590000,24.7,2500,6,21100
+201,Toyota,Glanza,2017,Electric,Automatic,2150000,12,2000,7,17700
+202,Volkswagen,Tiguan,2018,Petrol,Manual,1090000,28.1,800,4,24500
+203,Skoda,Kushaq,2016,Electric,Automatic,1860000,18.1,800,4,9400
+204,Skoda,Superb,2018,Electric,Manual,1870000,13.5,800,6,21000
+205,Honda,Civic,2022,Diesel,Manual,2860000,23.6,1500,4,13700
+206,Toyota,Urban Cruiser,2016,Petrol,Automatic,2660000,25.2,2000,6,5000
+207,Kia,EV6,2017,Diesel,Manual,2890000,19.9,1000,6,15200
+208,Volkswagen,Vento,2020,Electric,Automatic,1740000,25.6,1000,4,16200
+209,Hyundai,Venue,2022,Electric,Manual,2490000,13.6,1800,6,7800
+210,Hyundai,i10,2019,Electric,Manual,1490000,15.1,800,4,10900
+211,Honda,WR-V,2018,Diesel,Manual,640000,16.3,800,4,9900
+212,Kia,Carens,2023,CNG,Automatic,2030000,16,800,6,11200
+213,Mahindra,XUV300,2022,Electric,Manual,2950000,17.3,1200,7,11000
+214,Hyundai,i20,2024,CNG,Manual,2330000,28.7,1800,7,8500
+215,Volkswagen,Polo,2016,Electric,Manual,1770000,20.1,1500,7,23400
+216,Renault,Duster,2023,Petrol,Manual,2650000,20.2,1000,6,11400
+217,Renault,Triber,2021,Diesel,Manual,980000,25.2,800,7,19700
+218,Renault,Triber,2022,CNG,Manual,3280000,27,2000,7,10300
+219,Skoda,Octavia,2016,Electric,Manual,2710000,14,800,7,7300
+220,Renault,Kwid,2019,Petrol,Manual,1660000,18.3,1200,5,12500
+221,Skoda,Rapid,2018,Electric,Automatic,460000,19.6,1000,4,11600
+222,Kia,EV6,2020,Electric,Manual,1810000,21.6,1200,7,11900
+223,Tata Motors,Harrier,2019,Electric,Automatic,1750000,17,1500,7,17900
+224,Mahindra,Thar,2019,CNG,Automatic,1120000,22.3,1200,6,22600
+225,Volkswagen,Virtus,2016,Electric,Automatic,2190000,27.7,1200,6,21900
+226,Toyota,Glanza,2016,Electric,Automatic,2540000,13.4,1000,5,7000
+227,Honda,City,2019,Diesel,Automatic,2270000,28.2,800,7,10300
+228,Hyundai,i20,2022,Petrol,Automatic,3040000,29,2500,4,20300
+229,Tata Motors,Nexon,2021,Diesel,Automatic,3420000,12.9,800,5,13800
+230,Hyundai,i10,2018,CNG,Manual,3050000,12.3,1500,5,15300
+231,Volkswagen,Taigun,2020,Diesel,Manual,1240000,20.9,1800,4,17200
+232,Skoda,Rapid,2018,Diesel,Manual,1140000,28.5,1800,4,9900
+233,Skoda,Kushaq,2016,Petrol,Automatic,1930000,14.6,1000,7,11600
+234,Skoda,Slavia,2018,CNG,Manual,3230000,11.3,1000,4,5900
+235,Mahindra,XUV700,2020,CNG,Manual,1860000,21.2,1200,6,11300
+236,Honda,Amaze,2021,Electric,Automatic,1340000,27.6,2500,5,9300
+237,Tata Motors,Punch,2019,Electric,Automatic,2050000,10.2,2000,4,11900
+238,Toyota,Camry,2024,Petrol,Manual,2970000,24.6,1000,4,23300
+239,Mahindra,XUV300,2023,Diesel,Manual,1020000,11.4,1000,6,8700
+240,Kia,Sonet,2019,CNG,Manual,3010000,13.5,1800,6,13400
+241,Toyota,Camry,2023,Electric,Manual,1930000,24.5,1800,4,15800
+242,Maruti Suzuki,Dzire,2018,Electric,Manual,1570000,11,1200,5,21300
+243,Tata Motors,Harrier,2015,Petrol,Manual,1740000,19.3,2000,6,18500
+244,Toyota,Innova,2022,Diesel,Automatic,1040000,10.2,2000,4,24000
+245,Tata Motors,Harrier,2018,Petrol,Automatic,940000,19.8,1000,6,7100
+246,Hyundai,Creta,2022,Diesel,Automatic,1590000,21.9,1800,4,21600
+247,Mahindra,XUV300,2021,Petrol,Manual,2160000,28.6,2000,7,17200
+248,Honda,Jazz,2017,CNG,Automatic,2570000,11,1800,5,22300
+249,Kia,Sonet,2022,Petrol,Automatic,1260000,28.8,1800,7,15600
+250,Volkswagen,Polo,2024,Petrol,Automatic,2610000,27.7,2500,6,5900
+251,Honda,City,2017,Diesel,Automatic,1190000,11.1,1200,5,21400
+252,Hyundai,Creta,2024,CNG,Manual,1480000,14.2,2000,7,19700
+253,Hyundai,Creta,2023,Petrol,Automatic,1700000,24.7,1200,6,24300
+254,Tata Motors,Punch,2015,Electric,Automatic,3190000,11.8,1800,4,8900
+255,Maruti Suzuki,Ertiga,2023,Electric,Manual,3380000,15.5,1800,4,6000
+256,Renault,Kwid,2019,Electric,Automatic,740000,10.4,1000,4,9600
+257,Renault,Kiger,2020,Electric,Automatic,2060000,14.3,1800,4,11700
+258,Hyundai,i20,2021,Electric,Manual,3200000,17.4,800,7,6600
+259,Mahindra,XUV300,2019,CNG,Manual,3280000,19.8,1000,7,19200
+260,Honda,WR-V,2022,Diesel,Automatic,2060000,12,2000,4,6800
+261,Skoda,Rapid,2019,CNG,Automatic,1490000,14.3,1800,4,22700
+262,Maruti Suzuki,WagonR,2023,Petrol,Manual,700000,17.3,1000,5,24400
+263,Kia,Sonet,2023,Petrol,Automatic,2620000,23.4,800,5,7800
+264,Toyota,Glanza,2022,CNG,Manual,1020000,24.1,2500,5,6400
+265,Volkswagen,Polo,2022,Diesel,Manual,2240000,13.8,2000,7,24100
+266,Honda,Amaze,2021,Diesel,Manual,2400000,22.3,1500,4,11200
+267,Honda,Civic,2023,Petrol,Manual,2560000,14.6,1000,4,17100
+268,Kia,Sonet,2016,Petrol,Manual,1440000,15.9,1200,7,10400
+269,Volkswagen,Virtus,2018,Diesel,Automatic,3450000,26.9,1000,7,12900
+270,Renault,Kwid,2016,Electric,Automatic,3210000,25.4,2000,5,8500
+271,Maruti Suzuki,WagonR,2022,Electric,Manual,520000,24.7,1000,4,22200
+272,Honda,WR-V,2023,Petrol,Automatic,2600000,25.1,2000,6,15800
+273,Mahindra,Scorpio,2017,Diesel,Manual,3260000,12.3,2500,4,21000
+274,Tata Motors,Tiago,2018,CNG,Automatic,1190000,23.9,1200,4,5800
+275,Mahindra,Scorpio,2019,Petrol,Manual,3210000,15.9,1800,4,16600
+276,Maruti Suzuki,Swift,2022,CNG,Automatic,3400000,21.2,800,6,15000
+277,Hyundai,Creta,2020,Electric,Automatic,2610000,15.9,1200,6,18100
+278,Toyota,Camry,2020,Petrol,Manual,860000,11.7,800,7,15800
+279,Maruti Suzuki,Baleno,2022,Diesel,Manual,2480000,24.8,800,6,22500
+280,Renault,Duster,2018,Electric,Manual,2210000,11.8,2000,7,6500
+281,Maruti Suzuki,Swift,2023,Diesel,Manual,1280000,25.5,1000,4,7700
+282,Kia,Carnival,2023,CNG,Automatic,3070000,26.1,1200,7,23700
+283,Mahindra,XUV700,2022,Diesel,Automatic,3040000,17.7,2500,5,11300
+284,Renault,Kiger,2020,CNG,Automatic,420000,24.2,2000,4,10400
+285,Toyota,Glanza,2016,Electric,Manual,2220000,17.7,2500,5,17300
+286,Toyota,Fortuner,2017,Diesel,Automatic,3240000,27.2,1200,6,19600
+287,Kia,Carnival,2018,CNG,Automatic,1240000,18.4,800,6,18200
+288,Tata Motors,Nexon,2022,Electric,Automatic,2830000,11,1500,4,20000
+289,Maruti Suzuki,Swift,2018,CNG,Automatic,1200000,24.7,800,6,13400
+290,Volkswagen,Taigun,2018,Diesel,Automatic,1110000,11.8,1000,4,21600
+291,Renault,Triber,2015,Diesel,Manual,3020000,19.4,1800,4,15300
+292,Kia,EV6,2021,Electric,Automatic,2280000,10,1200,7,10700
+293,Toyota,Urban Cruiser,2015,CNG,Manual,2970000,17.8,1200,7,12500
+294,Skoda,Kushaq,2022,CNG,Automatic,2020000,26.1,1500,7,6200
+295,Maruti Suzuki,Ertiga,2022,Diesel,Manual,1520000,15,1000,7,19900
+296,Skoda,Slavia,2018,Petrol,Manual,1390000,13.3,1200,6,19800
+297,Mahindra,Scorpio,2018,Electric,Manual,2440000,16.1,800,5,14400
+298,Volkswagen,Vento,2019,Electric,Automatic,3350000,15.3,1200,5,18500
+299,Skoda,Octavia,2016,Petrol,Manual,2750000,21.9,2000,6,13600
+300,Maruti Suzuki,Baleno,2016,Diesel,Automatic,1270000,29.6,2000,6,6700
+301,Renault,Duster,2016,CNG,Manual,650000,16,2000,4,20000
+302,Volkswagen,Vento,2022,Diesel,Manual,2670000,22.9,1000,6,10000
+303,Kia,Carens,2020,Diesel,Automatic,1180000,10.9,1200,5,23400
+304,Skoda,Rapid,2019,CNG,Automatic,2110000,10.3,2000,4,19800
+305,Renault,Kiger,2018,CNG,Automatic,3310000,18.7,1800,4,23000
+306,Maruti Suzuki,Baleno,2024,CNG,Automatic,1550000,13.4,1000,5,16700
+307,Kia,Sonet,2016,Electric,Automatic,1170000,13.2,1200,6,9200
+308,Tata Motors,Tiago,2022,CNG,Automatic,1690000,18.2,2500,7,14700
+309,Maruti Suzuki,WagonR,2015,CNG,Automatic,2500000,26.6,1500,7,9100
+310,Kia,EV6,2020,CNG,Automatic,1410000,18.8,1000,5,14100
+311,Maruti Suzuki,Ertiga,2019,Electric,Automatic,1960000,15.9,800,4,5300
+312,Maruti Suzuki,WagonR,2017,Diesel,Automatic,2180000,11,1200,5,22300
+313,Renault,Kwid,2020,Electric,Manual,3000000,22.9,800,7,12100
+314,Toyota,Camry,2020,Diesel,Automatic,880000,28.5,1000,7,16600
+315,Hyundai,i20,2016,Diesel,Manual,1990000,14.6,2500,4,9300
+316,Toyota,Innova,2023,Petrol,Automatic,1000000,21,1500,6,19200
+317,Toyota,Urban Cruiser,2023,Petrol,Manual,2680000,11.6,1800,4,18100
+318,Mahindra,XUV300,2020,Petrol,Automatic,2060000,19.8,1000,4,7700
+319,Toyota,Glanza,2021,Electric,Automatic,1530000,25.8,1200,4,11300
+320,Honda,Amaze,2015,Petrol,Manual,2770000,22.1,2500,5,19200
+321,Kia,Seltos,2017,Electric,Automatic,3400000,23.4,1500,6,11900
+322,Maruti Suzuki,Dzire,2018,Petrol,Automatic,1520000,29.9,1500,5,12700
+323,Toyota,Urban Cruiser,2019,CNG,Manual,2960000,23,2500,5,12300
+324,Volkswagen,Tiguan,2017,Petrol,Manual,920000,29.3,1800,7,5700
+325,Mahindra,Bolero,2022,Electric,Manual,1850000,14.9,800,6,18400
+326,Maruti Suzuki,Baleno,2016,Diesel,Automatic,2280000,19.6,1500,5,14400
+327,Tata Motors,Punch,2020,Electric,Automatic,1590000,17.2,2000,6,14300
+328,Tata Motors,Punch,2016,Electric,Manual,3040000,18.9,1200,5,5800
+329,Kia,Seltos,2015,Diesel,Automatic,1460000,13.1,800,7,21900
+330,Kia,Seltos,2024,Petrol,Automatic,1860000,16.8,2000,6,12300
+331,Maruti Suzuki,Swift,2021,Petrol,Manual,1480000,10.2,800,6,10800
+332,Toyota,Glanza,2021,Diesel,Automatic,3000000,27,1500,5,15300
+333,Tata Motors,Harrier,2022,Electric,Automatic,1360000,12.3,1200,7,17900
+334,Tata Motors,Punch,2021,CNG,Manual,430000,24.8,2500,7,15700
+335,Skoda,Octavia,2017,Diesel,Automatic,1560000,27,2500,7,16400
+336,Honda,Jazz,2018,Electric,Manual,1100000,11.8,1000,6,10200
+337,Maruti Suzuki,Ertiga,2015,Electric,Automatic,1930000,17.5,1800,7,9500
+338,Maruti Suzuki,WagonR,2015,CNG,Automatic,2270000,26.2,1200,5,12000
+339,Maruti Suzuki,Ertiga,2024,Petrol,Automatic,910000,16,800,5,25000
+340,Kia,Carens,2015,CNG,Manual,1600000,17.4,1000,7,9400
+341,Volkswagen,Virtus,2018,Diesel,Automatic,1120000,29.7,2500,4,22900
+342,Tata Motors,Nexon,2016,Petrol,Manual,420000,24.5,1800,6,17500
+343,Maruti Suzuki,Dzire,2022,Diesel,Automatic,1310000,19.3,1500,4,19000
+344,Volkswagen,Tiguan,2015,Diesel,Manual,560000,28.6,1000,7,14000
+345,Mahindra,Bolero,2018,CNG,Automatic,680000,22.2,1200,5,7700
+346,Maruti Suzuki,Swift,2017,Electric,Automatic,2020000,11.7,1800,4,17000
+347,Mahindra,Bolero,2024,CNG,Manual,2390000,19.6,1200,6,22100
+348,Honda,City,2017,Diesel,Automatic,1740000,19.3,800,6,20300
+349,Renault,Kwid,2015,CNG,Automatic,520000,18.2,800,7,11100
+350,Toyota,Fortuner,2018,Petrol,Manual,2960000,13.1,1800,4,19500
+351,Hyundai,Creta,2022,Diesel,Automatic,1200000,21.1,1500,6,20600
+352,Skoda,Superb,2016,Diesel,Manual,3150000,11,1200,7,10800
+353,Toyota,Fortuner,2024,CNG,Automatic,3230000,16.3,1200,7,22500
+354,Tata Motors,Altroz,2024,Diesel,Automatic,2520000,21.5,800,4,8500
+355,Mahindra,Scorpio,2021,Petrol,Automatic,2310000,15.6,1200,6,9400
+356,Volkswagen,Vento,2016,Electric,Manual,2850000,14.2,800,4,19400
+357,Hyundai,Venue,2020,Petrol,Manual,1670000,16.1,1800,4,12100
+358,Volkswagen,Polo,2019,CNG,Automatic,2340000,22.7,800,7,19700
+359,Tata Motors,Harrier,2018,CNG,Manual,1980000,18,1200,5,16300
+360,Tata Motors,Nexon,2024,CNG,Automatic,1930000,28.7,2000,4,15600
+361,Tata Motors,Nexon,2018,Petrol,Automatic,3200000,19.9,2500,6,13100
+362,Mahindra,XUV300,2018,Petrol,Automatic,3470000,21.9,2500,7,21500
+363,Toyota,Fortuner,2021,Diesel,Automatic,2850000,14.5,1000,7,10100
+364,Tata Motors,Nexon,2017,Diesel,Manual,1930000,24.6,800,7,23000
+365,Hyundai,i10,2018,CNG,Manual,2810000,20.2,2000,5,8500
+366,Renault,Duster,2024,Petrol,Automatic,1670000,21.9,1000,6,20100
+367,Renault,Kwid,2022,CNG,Manual,1380000,10.2,1500,4,13700
+368,Skoda,Kushaq,2019,Electric,Manual,470000,12,1200,7,10400
+369,Tata Motors,Punch,2018,CNG,Manual,1370000,21,2000,7,12200
+370,Volkswagen,Taigun,2024,Electric,Automatic,2660000,10.8,1000,7,17600
+371,Maruti Suzuki,Dzire,2015,Electric,Automatic,890000,15.9,800,4,8800
+372,Renault,Kiger,2015,Electric,Manual,800000,12.7,1200,6,7700
+373,Kia,Sonet,2017,Electric,Automatic,840000,11.4,2000,5,12800
+374,Honda,City,2018,Petrol,Manual,2750000,22.7,800,4,12500
+375,Honda,Civic,2018,Electric,Automatic,3220000,13,2500,6,11300
+376,Honda,Jazz,2018,CNG,Automatic,2600000,18.4,1500,4,17600
+377,Kia,Seltos,2016,Electric,Automatic,1610000,23.1,1800,7,18600
+378,Kia,Carens,2020,Diesel,Automatic,470000,18,1200,5,6700
+379,Maruti Suzuki,WagonR,2020,CNG,Automatic,690000,22.5,1500,6,18300
+380,Renault,Kiger,2021,Electric,Manual,2360000,21.9,1800,6,20400
+381,Skoda,Octavia,2015,Petrol,Automatic,2800000,16.4,1000,5,20000
+382,Mahindra,Bolero,2024,Electric,Manual,1870000,14.3,1800,5,22200
+383,Hyundai,Creta,2018,Petrol,Automatic,1610000,16.1,1800,4,10700
+384,Toyota,Glanza,2021,Electric,Manual,800000,23.6,2000,7,11100
+385,Tata Motors,Tiago,2017,Diesel,Manual,710000,22,1200,7,14500
+386,Volkswagen,Polo,2015,Diesel,Automatic,2750000,22.6,1500,7,23400
+387,Maruti Suzuki,Swift,2018,Electric,Automatic,2100000,18.3,1500,7,9100
+388,Hyundai,Venue,2024,Electric,Manual,2710000,16,800,7,10500
+389,Skoda,Superb,2023,CNG,Manual,1670000,23.5,1500,6,16600
+390,Honda,WR-V,2022,Electric,Manual,2700000,18.8,1000,7,19700
+391,Hyundai,Creta,2022,CNG,Manual,2080000,24.7,2500,7,18300
+392,Toyota,Glanza,2015,Diesel,Manual,3190000,20.5,2500,6,24700
+393,Volkswagen,Virtus,2023,Electric,Manual,2360000,16,1200,4,7100
+394,Honda,WR-V,2024,Electric,Automatic,2180000,15.5,2000,6,17400
+395,Mahindra,Scorpio,2016,CNG,Automatic,1460000,27.1,1200,7,20700
+396,Volkswagen,Taigun,2018,Electric,Manual,1540000,16.6,1200,5,8500
+397,Renault,Duster,2016,Diesel,Automatic,2900000,18.1,1200,6,9200
+398,Volkswagen,Polo,2016,Diesel,Manual,3180000,18.4,2000,6,8300
+399,Toyota,Camry,2024,CNG,Manual,1370000,26.6,2500,4,19600
+400,Skoda,Slavia,2023,CNG,Automatic,2370000,14.6,1200,6,19500
+401,Renault,Duster,2022,Petrol,Automatic,1890000,14.4,2000,5,16100
+402,Hyundai,Creta,2019,Diesel,Manual,1130000,13,1200,7,13400
+403,Hyundai,i20,2019,Petrol,Automatic,1150000,21.9,1200,4,12500
+404,Mahindra,XUV300,2015,Petrol,Manual,640000,14.3,2500,5,23400
+405,Honda,Civic,2023,Diesel,Manual,3070000,16.7,1200,5,20500
+406,Tata Motors,Altroz,2017,Petrol,Automatic,1070000,10.7,1000,7,24400
+407,Mahindra,Bolero,2016,CNG,Manual,1870000,27.9,800,6,17500
+408,Hyundai,i20,2023,Petrol,Manual,2680000,10.8,1500,5,19200
+409,Toyota,Glanza,2023,CNG,Automatic,3000000,18.7,1800,5,21500
+410,Tata Motors,Tiago,2019,CNG,Automatic,1860000,18.1,800,4,13800
+411,Kia,EV6,2024,Diesel,Manual,3160000,14.3,2500,4,11200
+412,Toyota,Innova,2016,Electric,Manual,2360000,23.8,2000,4,9000
+413,Volkswagen,Polo,2022,Electric,Manual,1290000,12.7,1000,6,16100
+414,Toyota,Camry,2021,Electric,Automatic,700000,24.2,2000,7,23200
+415,Tata Motors,Altroz,2019,CNG,Automatic,1630000,29.2,2500,5,21500
+416,Mahindra,Scorpio,2019,Electric,Automatic,2490000,23.6,1800,4,17800
+417,Skoda,Superb,2020,CNG,Automatic,2630000,11.5,800,5,19800
+418,Tata Motors,Harrier,2016,Diesel,Manual,540000,24.6,2500,7,11500
+419,Mahindra,Thar,2016,Diesel,Automatic,1190000,15.4,800,5,24700
+420,Skoda,Octavia,2015,Diesel,Automatic,840000,20.7,2000,5,19100
+421,Renault,Lodgy,2015,CNG,Automatic,1140000,28.8,2000,5,15100
+422,Maruti Suzuki,WagonR,2016,Diesel,Manual,2410000,23,2500,6,14000
+423,Hyundai,i10,2021,Electric,Manual,2950000,27,800,6,24600
+424,Maruti Suzuki,Swift,2015,Petrol,Automatic,490000,14.8,1200,5,6600
+425,Tata Motors,Nexon,2020,Diesel,Automatic,1280000,23.4,1000,5,8100
+426,Renault,Lodgy,2023,CNG,Manual,930000,27.6,1500,4,8200
+427,Mahindra,Thar,2023,Petrol,Automatic,3150000,18.4,2000,6,7300
+428,Kia,Seltos,2022,CNG,Manual,2530000,16.8,2500,6,21600
+429,Tata Motors,Punch,2021,Diesel,Manual,2980000,11.1,1500,6,8800
+430,Skoda,Slavia,2016,CNG,Manual,3210000,15.6,2000,6,24700
+431,Skoda,Octavia,2020,Petrol,Automatic,3120000,12.7,2500,6,23200
+432,Skoda,Octavia,2017,Diesel,Manual,2340000,22.6,2000,5,17100
+433,Toyota,Camry,2016,CNG,Automatic,2050000,17,1800,5,20600
+434,Mahindra,XUV300,2016,Petrol,Manual,820000,23.6,1200,4,14100
+435,Hyundai,i20,2016,CNG,Automatic,2310000,10.2,1200,5,15200
+436,Hyundai,Venue,2019,CNG,Manual,2250000,16.8,800,5,6600
+437,Skoda,Octavia,2016,Electric,Automatic,700000,14,2500,7,13500
+438,Kia,Carens,2019,CNG,Automatic,2010000,26.3,1200,4,23600
+439,Skoda,Superb,2024,Diesel,Automatic,2740000,10.1,1500,6,19100
+440,Kia,Sonet,2021,Electric,Automatic,980000,13.7,2000,4,17100
+441,Skoda,Rapid,2020,Electric,Manual,3030000,11.1,1000,4,15800
+442,Tata Motors,Tiago,2017,Petrol,Manual,2400000,14.1,2500,5,11500
+443,Skoda,Kushaq,2019,Petrol,Automatic,2660000,15,2000,4,10900
+444,Skoda,Superb,2022,Petrol,Manual,2000000,28.7,1000,5,21400
+445,Toyota,Glanza,2018,Diesel,Manual,2950000,28.2,2000,4,14500
+446,Kia,Carens,2015,Diesel,Automatic,2290000,24.5,1000,7,24500
+447,Renault,Kiger,2020,Petrol,Manual,1130000,10.9,1500,5,21200
+448,Maruti Suzuki,Baleno,2024,Petrol,Manual,610000,25,1500,4,17200
+449,Skoda,Kushaq,2023,Electric,Manual,2630000,26.2,1000,4,13100
+450,Volkswagen,Tiguan,2017,CNG,Manual,1030000,16.8,1500,5,18600
+451,Volkswagen,Tiguan,2017,Petrol,Manual,1520000,10.2,800,7,21700
+452,Mahindra,Thar,2023,Electric,Manual,2560000,25.8,1000,4,21500
+453,Honda,Jazz,2024,Diesel,Automatic,2470000,28.2,2000,6,5000
+454,Toyota,Camry,2018,Petrol,Manual,2630000,23.5,2000,6,24600
+455,Volkswagen,Taigun,2022,Diesel,Automatic,3020000,26.3,1500,7,22700
+456,Honda,Amaze,2023,Diesel,Automatic,2540000,13.3,800,7,7000
+457,Skoda,Superb,2018,Petrol,Manual,1460000,23.8,2500,7,21500
+458,Skoda,Slavia,2019,Electric,Automatic,3320000,23.3,2500,7,10900
+459,Skoda,Slavia,2019,Petrol,Automatic,470000,26,1000,7,7200
+460,Honda,Civic,2021,Petrol,Manual,1540000,29.1,1500,5,7200
+461,Kia,EV6,2020,CNG,Automatic,2480000,15.2,1000,4,24800
+462,Renault,Lodgy,2016,CNG,Manual,3490000,17.6,1000,4,6600
+463,Maruti Suzuki,WagonR,2024,Diesel,Automatic,2790000,12.5,1500,7,5700
+464,Hyundai,Creta,2023,Diesel,Manual,450000,14.5,1000,6,16000
+465,Toyota,Glanza,2015,CNG,Manual,2890000,19.4,1500,6,10900
+466,Toyota,Glanza,2021,Diesel,Automatic,1990000,14.4,1200,4,9000
+467,Tata Motors,Harrier,2017,Petrol,Automatic,1250000,16.9,2000,6,10500
+468,Toyota,Fortuner,2018,Diesel,Manual,2830000,25.3,1000,5,5900
+469,Renault,Duster,2016,Electric,Manual,570000,11.3,2000,5,24100
+470,Kia,Sonet,2022,CNG,Manual,2170000,21.7,2000,4,12800
+471,Hyundai,Venue,2019,Petrol,Automatic,690000,29.7,1000,6,10400
+472,Toyota,Camry,2021,CNG,Manual,2350000,18.3,2000,5,11300
+473,Skoda,Slavia,2024,Petrol,Manual,2970000,14.4,2500,7,14400
+474,Mahindra,Scorpio,2021,Diesel,Manual,3480000,23.8,1200,6,12600
+475,Mahindra,XUV700,2018,Electric,Manual,410000,12.7,2000,5,20100
+476,Honda,Civic,2024,Diesel,Automatic,3480000,12,1000,4,8900
+477,Skoda,Rapid,2022,Electric,Automatic,2020000,29.8,2000,6,12500
+478,Hyundai,i20,2023,Petrol,Automatic,2060000,20.9,1200,4,21500
+479,Mahindra,XUV300,2024,CNG,Manual,740000,13.6,1200,4,15700
+480,Maruti Suzuki,WagonR,2024,CNG,Automatic,2020000,10.4,1800,7,13700
+481,Renault,Kiger,2023,CNG,Automatic,700000,26.8,1000,6,23500
+482,Kia,Carens,2023,CNG,Manual,2020000,11.8,1200,6,14800
+483,Maruti Suzuki,Baleno,2018,Diesel,Automatic,2300000,10.3,2000,5,16600
+484,Mahindra,Bolero,2018,CNG,Manual,1500000,11.3,1500,4,8600
+485,Mahindra,Bolero,2021,Electric,Manual,1880000,19,1000,7,20700
+486,Tata Motors,Nexon,2022,Diesel,Manual,2120000,19,1000,6,19100
+487,Tata Motors,Punch,2015,Electric,Manual,510000,17.6,2000,4,20400
+488,Mahindra,Scorpio,2016,CNG,Manual,1260000,24.9,800,5,13400
+489,Honda,Civic,2020,CNG,Manual,1820000,18.2,1500,4,6500
+490,Renault,Lodgy,2023,Diesel,Manual,3170000,13.1,1000,5,18700
+491,Skoda,Rapid,2024,Petrol,Manual,1210000,29.5,1200,4,13100
+492,Mahindra,Bolero,2017,Electric,Automatic,1340000,20.6,1000,5,16200
+493,Renault,Kiger,2020,CNG,Automatic,1170000,29.9,800,5,11700
+494,Maruti Suzuki,Ertiga,2023,Diesel,Automatic,3490000,25.5,1000,6,7800
+495,Maruti Suzuki,Dzire,2022,Electric,Automatic,3400000,13.4,2500,5,20700
+496,Mahindra,Scorpio,2021,CNG,Automatic,680000,17.8,1500,7,13000
+497,Hyundai,i10,2023,Petrol,Manual,990000,29.1,800,4,9300
+498,Volkswagen,Virtus,2023,Diesel,Automatic,2690000,17.7,2000,6,14500
+499,Renault,Kwid,2019,CNG,Automatic,1730000,14.8,1200,5,21700
+500,Tata Motors,Nexon,2021,Diesel,Manual,3240000,21.7,2000,6,10500
+501,Toyota,Fortuner,2023,Electric,Automatic,3060000,22.1,1000,5,20600
+502,Kia,Seltos,2018,Diesel,Manual,2380000,28.8,2000,5,18700
+503,Kia,Carens,2018,Diesel,Automatic,770000,12,2500,7,18600
+504,Toyota,Camry,2019,CNG,Manual,680000,20.2,1800,4,9900
+505,Maruti Suzuki,Dzire,2015,Petrol,Manual,1110000,13.6,2500,6,14500
+506,Skoda,Octavia,2022,Diesel,Automatic,1820000,22.1,2500,6,17500
+507,Toyota,Glanza,2015,Diesel,Automatic,2200000,10.8,2000,6,9800
+508,Tata Motors,Tiago,2018,Diesel,Manual,1890000,29,1800,6,9200
+509,Kia,Seltos,2016,CNG,Automatic,2090000,11.7,2500,6,7300
+510,Renault,Duster,2024,Diesel,Automatic,1360000,21.3,1500,4,21100
+511,Toyota,Camry,2021,Electric,Automatic,2720000,25.8,1000,7,22700
+512,Skoda,Kushaq,2016,CNG,Automatic,3010000,21,1800,4,21700
+513,Skoda,Slavia,2018,Petrol,Automatic,2900000,20.5,2500,4,21100
+514,Kia,Seltos,2023,CNG,Automatic,900000,24.2,2500,5,21800
+515,Volkswagen,Taigun,2024,CNG,Manual,2640000,17.3,1200,5,11400
+516,Hyundai,i20,2022,CNG,Automatic,890000,12,1000,4,18600
+517,Hyundai,i20,2024,Electric,Automatic,1130000,16.8,1800,7,9700
+518,Renault,Kwid,2022,Diesel,Automatic,1020000,27.8,2500,5,23100
+519,Mahindra,Thar,2017,CNG,Manual,3020000,20.8,2000,6,16600
+520,Tata Motors,Harrier,2017,Electric,Automatic,780000,26.7,1500,7,7000
+521,Hyundai,Verna,2020,CNG,Automatic,1140000,13.4,1800,7,23500
+522,Skoda,Octavia,2021,Electric,Automatic,1720000,10.5,1800,7,18500
+523,Maruti Suzuki,WagonR,2019,Diesel,Automatic,1980000,13.2,2000,4,17800
+524,Tata Motors,Altroz,2016,Diesel,Automatic,3490000,11.7,1200,4,23500
+525,Hyundai,Venue,2019,CNG,Manual,730000,11.9,2000,5,5500
+526,Hyundai,Creta,2020,Electric,Manual,860000,18.6,1200,6,20500
+527,Toyota,Fortuner,2023,CNG,Automatic,3370000,23.9,1000,7,18400
+528,Kia,Carens,2018,CNG,Automatic,1770000,19.7,800,4,17000
+529,Mahindra,Bolero,2022,Electric,Automatic,690000,23.7,1000,4,17500
+530,Maruti Suzuki,Baleno,2018,Electric,Automatic,2250000,19.6,1000,6,7400
+531,Honda,City,2020,Diesel,Automatic,2020000,22.1,800,4,14400
+532,Volkswagen,Taigun,2023,Petrol,Manual,3090000,11,2000,6,15600
+533,Skoda,Slavia,2021,Petrol,Automatic,2860000,12.8,1500,4,20700
+534,Volkswagen,Tiguan,2017,Petrol,Automatic,2550000,14.9,1800,6,20100
+535,Maruti Suzuki,Swift,2021,Diesel,Manual,2740000,17.4,800,6,12700
+536,Tata Motors,Altroz,2020,Petrol,Manual,2160000,14.7,1800,6,16400
+537,Kia,Sonet,2022,Diesel,Manual,1540000,28.4,2500,5,6600
+538,Renault,Duster,2024,Electric,Automatic,2970000,23.8,2500,4,12800
+539,Honda,WR-V,2018,CNG,Manual,1830000,12.7,1500,7,8500
+540,Skoda,Rapid,2017,CNG,Manual,790000,16.2,1800,4,9800
+541,Toyota,Glanza,2017,Diesel,Automatic,3200000,20.8,800,6,20100
+542,Skoda,Octavia,2019,Diesel,Manual,2050000,24,1000,7,8700
+543,Tata Motors,Nexon,2015,CNG,Automatic,1900000,19.8,2000,7,22400
+544,Maruti Suzuki,WagonR,2017,Petrol,Manual,1270000,11.7,800,4,5600
+545,Kia,Carens,2022,Petrol,Automatic,2790000,15.7,1000,5,9500
+546,Tata Motors,Punch,2019,Petrol,Manual,830000,13.5,2500,5,19200
+547,Mahindra,Bolero,2020,Diesel,Manual,2580000,22.7,1200,5,17100
+548,Mahindra,XUV700,2016,Petrol,Manual,1140000,13.5,1200,4,16800
+549,Maruti Suzuki,WagonR,2021,Diesel,Automatic,1180000,23.1,800,6,13000
+550,Tata Motors,Harrier,2016,Petrol,Manual,1450000,28.5,2000,6,18500
+551,Maruti Suzuki,WagonR,2023,Petrol,Manual,2550000,11.9,1000,5,18100
+552,Mahindra,Thar,2021,Electric,Automatic,2180000,20.2,1000,4,21000
+553,Tata Motors,Punch,2023,CNG,Automatic,2330000,22,2000,7,20000
+554,Toyota,Camry,2022,Diesel,Manual,1640000,24,1200,4,14500
+555,Tata Motors,Nexon,2016,Diesel,Manual,3170000,13.2,1000,4,7500
+556,Hyundai,Creta,2016,Diesel,Automatic,2940000,24.3,800,5,10000
+557,Maruti Suzuki,Dzire,2017,Petrol,Manual,2410000,11.4,2500,6,13900
+558,Tata Motors,Tiago,2023,CNG,Automatic,3310000,27.2,800,4,16700
+559,Skoda,Kushaq,2023,CNG,Automatic,1120000,27.2,800,5,19900
+560,Mahindra,XUV700,2018,Petrol,Manual,1820000,22.8,800,7,11000
+561,Tata Motors,Nexon,2024,Electric,Manual,2160000,23.8,2500,4,22500
+562,Mahindra,Bolero,2021,Electric,Manual,1460000,15.4,1200,6,7700
+563,Honda,Jazz,2017,Electric,Manual,1120000,13.7,1000,7,12100
+564,Maruti Suzuki,Swift,2023,Electric,Manual,3120000,29.8,800,6,11100
+565,Toyota,Urban Cruiser,2017,Electric,Manual,420000,11.3,2000,6,23600
+566,Tata Motors,Punch,2022,Electric,Automatic,2210000,22.2,1500,7,8700
+567,Skoda,Rapid,2024,Electric,Manual,3070000,13.7,800,5,13600
+568,Hyundai,i20,2015,CNG,Automatic,2600000,11.7,2500,6,22900
+569,Kia,EV6,2020,CNG,Automatic,1210000,18.7,800,7,21800
+570,Volkswagen,Tiguan,2018,CNG,Automatic,2390000,28.9,800,6,5700
+571,Toyota,Innova,2017,Petrol,Manual,3330000,11,1800,4,7900
+572,Maruti Suzuki,Dzire,2022,Petrol,Manual,1620000,21.9,2000,7,13700
+573,Volkswagen,Tiguan,2024,CNG,Manual,3300000,11,2000,5,18900
+574,Kia,Sonet,2018,Diesel,Automatic,720000,25.1,800,7,19300
+575,Toyota,Fortuner,2017,CNG,Automatic,2080000,10.4,1200,7,19500
+576,Honda,City,2023,Diesel,Manual,780000,24.7,1200,6,14100
+577,Volkswagen,Vento,2024,CNG,Automatic,740000,28.1,2500,6,10800
+578,Kia,Carens,2021,Petrol,Automatic,1640000,27.9,1800,7,12700
+579,Toyota,Glanza,2024,Petrol,Manual,3490000,11.1,1000,5,6200
+580,Toyota,Camry,2018,Electric,Manual,500000,20,1000,7,21300
+581,Honda,Amaze,2017,Petrol,Automatic,2090000,12.7,2500,7,23500
+582,Skoda,Superb,2016,Electric,Automatic,2540000,20.8,2000,7,10900
+583,Tata Motors,Tiago,2024,Petrol,Manual,730000,11.1,1200,7,19200
+584,Honda,WR-V,2017,Electric,Automatic,2900000,27,1800,7,13100
+585,Maruti Suzuki,Baleno,2018,Electric,Automatic,3250000,21.1,1000,4,20800
+586,Honda,Jazz,2019,CNG,Manual,2700000,10.7,1800,7,18500
+587,Toyota,Urban Cruiser,2021,CNG,Manual,2240000,14.8,2500,4,15300
+588,Maruti Suzuki,Baleno,2022,Petrol,Automatic,3390000,18,1800,6,22100
+589,Honda,Civic,2018,Diesel,Automatic,2590000,16.4,1200,6,16800
+590,Skoda,Superb,2017,Petrol,Automatic,3140000,17.6,800,5,7100
+591,Hyundai,i20,2015,Electric,Automatic,1170000,18.5,800,5,20200
+592,Skoda,Kushaq,2016,Petrol,Automatic,2300000,27.3,2000,6,5500
+593,Mahindra,XUV700,2017,Diesel,Manual,3040000,14.4,2500,4,14700
+594,Volkswagen,Polo,2022,Electric,Automatic,2340000,12.6,1800,4,18900
+595,Maruti Suzuki,Ertiga,2024,Petrol,Manual,1920000,18.4,1500,7,22600
+596,Volkswagen,Virtus,2020,Electric,Manual,1040000,10.9,1500,7,13000
+597,Tata Motors,Nexon,2020,Petrol,Automatic,740000,25.8,2500,5,10100
+598,Volkswagen,Tiguan,2015,Petrol,Manual,790000,16.2,2500,4,14800
+599,Mahindra,XUV300,2020,Electric,Automatic,2540000,23.2,800,5,5600
+600,Kia,EV6,2021,Diesel,Automatic,1780000,28.5,1000,4,24500
+601,Skoda,Slavia,2018,Diesel,Automatic,2070000,22.2,1800,4,16400
+602,Kia,EV6,2018,Petrol,Automatic,2850000,21.9,1800,4,20500
+603,Skoda,Octavia,2024,Electric,Manual,3470000,22,2500,7,18000
+604,Skoda,Kushaq,2019,Electric,Automatic,2220000,18.9,1500,4,22600
+605,Hyundai,Venue,2024,Diesel,Manual,2500000,18.1,2500,7,14100
+606,Kia,Seltos,2018,Petrol,Manual,2850000,13.2,2500,4,23900
+607,Hyundai,Venue,2022,Petrol,Automatic,1380000,25.8,1200,5,21200
+608,Skoda,Slavia,2021,Petrol,Manual,2870000,16.1,1800,7,8100
+609,Hyundai,i10,2016,Electric,Manual,1940000,10.3,800,5,10200
+610,Toyota,Camry,2018,Diesel,Manual,3360000,25.7,1000,4,13800
+611,Volkswagen,Vento,2020,CNG,Manual,560000,12.1,1000,5,6500
+612,Honda,Amaze,2017,Diesel,Manual,2840000,24.5,2500,7,14700
+613,Mahindra,XUV700,2018,Petrol,Automatic,2170000,17.5,1200,7,19300
+614,Maruti Suzuki,WagonR,2017,CNG,Automatic,2270000,20.2,2500,7,17700
+615,Hyundai,Creta,2024,CNG,Automatic,2270000,24.3,2000,5,9700
+616,Skoda,Rapid,2024,Electric,Manual,2950000,17.8,1000,5,12500
+617,Mahindra,Thar,2022,Petrol,Automatic,2530000,24.6,1200,5,6300
+618,Mahindra,XUV700,2019,Diesel,Automatic,2840000,11.5,2500,6,16700
+619,Tata Motors,Harrier,2018,Petrol,Automatic,3350000,15.8,2500,7,21000
+620,Hyundai,Verna,2018,Diesel,Automatic,2590000,27.1,1800,6,12600
+621,Skoda,Superb,2020,Diesel,Manual,3400000,18.4,1200,6,11200
+622,Tata Motors,Altroz,2015,Diesel,Manual,970000,25.9,800,4,23600
+623,Tata Motors,Altroz,2023,Electric,Manual,690000,25.8,1500,7,12300
+624,Volkswagen,Vento,2021,Diesel,Automatic,1500000,11.6,1200,7,12200
+625,Mahindra,XUV700,2024,CNG,Manual,2210000,23,2500,6,5500
+626,Volkswagen,Polo,2016,Diesel,Manual,1540000,18.5,1500,5,16900
+627,Volkswagen,Vento,2024,Electric,Automatic,920000,19.8,1800,5,22400
+628,Volkswagen,Vento,2020,Petrol,Automatic,1740000,28.3,1500,4,18300
+629,Tata Motors,Altroz,2021,Electric,Automatic,1370000,14.3,2500,5,22400
+630,Maruti Suzuki,Swift,2015,Electric,Automatic,3300000,15.1,1000,7,16400
+631,Mahindra,Thar,2022,Diesel,Automatic,1220000,20.5,2500,5,12100
+632,Mahindra,Thar,2020,CNG,Manual,3160000,21.7,1000,5,8500
+633,Renault,Triber,2016,CNG,Manual,770000,17.7,1500,7,8000
+634,Tata Motors,Tiago,2020,Petrol,Automatic,590000,28.9,1200,6,14500
+635,Hyundai,Venue,2019,Diesel,Automatic,1580000,27.9,2500,4,15900
+636,Skoda,Slavia,2021,Electric,Manual,2190000,16,2500,6,14100
+637,Volkswagen,Polo,2020,Electric,Manual,2610000,24.6,2500,7,7600
+638,Toyota,Glanza,2022,Petrol,Automatic,700000,15.2,2500,7,11100
+639,Skoda,Kushaq,2021,Petrol,Automatic,1740000,19,1000,4,18200
+640,Maruti Suzuki,Dzire,2017,Diesel,Automatic,3280000,11.4,2500,4,16000
+641,Toyota,Innova,2018,Petrol,Manual,1440000,26.8,2500,6,7400
+642,Tata Motors,Altroz,2015,Diesel,Manual,3180000,16.1,1000,6,18300
+643,Volkswagen,Tiguan,2015,Diesel,Automatic,2200000,21.3,1200,4,18400
+644,Honda,Jazz,2020,Diesel,Manual,2710000,17.8,2500,4,8200
+645,Skoda,Superb,2015,Electric,Automatic,1490000,24.6,1800,5,14200
+646,Mahindra,XUV700,2016,Electric,Manual,1180000,13.8,2000,7,9900
+647,Maruti Suzuki,WagonR,2016,Diesel,Automatic,1290000,11.7,2000,5,5000
+648,Tata Motors,Harrier,2015,Diesel,Automatic,3380000,19.6,800,6,8700
+649,Renault,Kwid,2019,CNG,Automatic,3140000,20.6,800,6,5100
+650,Maruti Suzuki,Ertiga,2018,CNG,Automatic,740000,18.2,1800,7,9600
+651,Honda,City,2019,Petrol,Automatic,1220000,25.7,2500,4,18400
+652,Kia,EV6,2019,Electric,Manual,700000,23.8,1800,5,22300
+653,Maruti Suzuki,Ertiga,2022,Electric,Manual,1370000,28,2000,7,23000
+654,Hyundai,Venue,2017,CNG,Manual,2280000,11.9,1200,5,7600
+655,Toyota,Innova,2016,Diesel,Automatic,2200000,18.8,1000,6,24900
+656,Hyundai,Verna,2015,Electric,Manual,2090000,24.2,1000,5,14700
+657,Mahindra,Bolero,2019,CNG,Automatic,1260000,18.4,1500,5,13400
+658,Volkswagen,Taigun,2024,CNG,Automatic,2350000,10.6,2000,7,6600
+659,Maruti Suzuki,Swift,2023,Diesel,Manual,1660000,17.7,2500,7,17900
+660,Toyota,Fortuner,2024,Petrol,Manual,3390000,13.2,2000,6,19800
+661,Toyota,Innova,2018,Petrol,Manual,2360000,14.9,1200,6,18700
+662,Skoda,Octavia,2020,Diesel,Manual,1590000,25,1500,6,9500
+663,Volkswagen,Virtus,2015,Petrol,Manual,1710000,14.1,2000,5,10700
+664,Skoda,Superb,2019,Petrol,Automatic,610000,23.7,1200,4,13600
+665,Hyundai,Verna,2018,Diesel,Automatic,1250000,23.4,2000,6,8400
+666,Toyota,Urban Cruiser,2019,Diesel,Manual,2100000,15.7,1200,6,9300
+667,Kia,EV6,2016,Electric,Manual,1440000,25.1,1500,4,19700
+668,Volkswagen,Vento,2024,Electric,Manual,1810000,26.8,2000,5,15100
+669,Honda,City,2016,Electric,Automatic,930000,11.2,800,4,15000
+670,Honda,City,2024,Electric,Manual,930000,28.1,1800,4,17000
+671,Volkswagen,Vento,2018,CNG,Manual,890000,19.8,1200,4,17100
+672,Mahindra,XUV300,2016,Diesel,Manual,2350000,26.2,1500,7,21100
+673,Honda,WR-V,2016,CNG,Automatic,2490000,23.6,1500,7,5100
+674,Volkswagen,Virtus,2020,Electric,Automatic,2270000,12.2,1000,6,15900
+675,Volkswagen,Polo,2019,Petrol,Manual,2530000,18.8,1500,5,19100
+676,Maruti Suzuki,Ertiga,2015,Diesel,Manual,450000,19,1000,6,12600
+677,Skoda,Slavia,2018,Diesel,Manual,1530000,27.4,2000,6,5700
+678,Kia,Seltos,2015,Electric,Automatic,1830000,26,1200,6,8800
+679,Maruti Suzuki,Swift,2023,Electric,Automatic,2200000,28.4,800,6,11800
+680,Maruti Suzuki,Swift,2022,CNG,Manual,1730000,17.8,1200,5,19000
+681,Tata Motors,Altroz,2019,Electric,Manual,3350000,28.3,1000,5,16500
+682,Hyundai,Creta,2017,Diesel,Automatic,730000,10,1500,6,6800
+683,Volkswagen,Virtus,2017,Petrol,Manual,2030000,26.9,1800,4,7200
+684,Maruti Suzuki,Ertiga,2019,CNG,Manual,3020000,23.8,1800,6,8400
+685,Maruti Suzuki,Swift,2016,Petrol,Manual,2680000,20,1000,5,22500
+686,Tata Motors,Altroz,2017,Diesel,Automatic,2520000,20.8,1200,4,5300
+687,Maruti Suzuki,Ertiga,2021,CNG,Automatic,2120000,28.8,1200,7,23100
+688,Volkswagen,Polo,2024,CNG,Automatic,520000,23.8,1000,6,21500
+689,Honda,Civic,2015,Electric,Manual,1460000,14.7,1200,5,16300
+690,Volkswagen,Virtus,2021,Diesel,Manual,2870000,21.4,800,5,22100
+691,Mahindra,XUV300,2022,Petrol,Automatic,2390000,13.8,1200,5,19400
+692,Renault,Lodgy,2017,Diesel,Automatic,1790000,28.3,800,4,22800
+693,Volkswagen,Taigun,2022,CNG,Automatic,610000,20.9,1000,5,21500
+694,Volkswagen,Polo,2015,Diesel,Manual,1800000,18.4,1500,6,17000
+695,Honda,Civic,2019,Electric,Manual,2990000,20.4,1800,4,18500
+696,Volkswagen,Tiguan,2016,Petrol,Automatic,2020000,11.6,800,7,8700
+697,Kia,Seltos,2019,Diesel,Automatic,3450000,18.9,800,5,13200
+698,Volkswagen,Taigun,2020,CNG,Manual,1360000,22.5,1200,4,7500
+699,Kia,Carnival,2016,Diesel,Manual,1190000,24,1000,6,17100
+700,Kia,Seltos,2016,Diesel,Manual,1150000,14.9,2500,4,18100
+701,Mahindra,Bolero,2020,Electric,Automatic,1270000,20.3,1000,4,19800
+702,Honda,Jazz,2019,Electric,Automatic,1850000,12.3,1000,4,13700
+703,Maruti Suzuki,Baleno,2019,Electric,Automatic,2120000,23.7,2000,5,22700
+704,Hyundai,i20,2018,Electric,Automatic,2970000,10.9,1200,7,18300
+705,Kia,Sonet,2023,Diesel,Automatic,620000,17.6,1500,7,16200
+706,Maruti Suzuki,Ertiga,2019,CNG,Automatic,1020000,16.7,2000,5,19400
+707,Honda,City,2019,CNG,Manual,2490000,11.6,1800,6,8500
+708,Maruti Suzuki,WagonR,2022,Petrol,Automatic,480000,27.4,1500,6,10700
+709,Honda,Jazz,2018,Petrol,Manual,400000,19.8,1000,5,12500
+710,Maruti Suzuki,Swift,2019,Electric,Manual,450000,21.4,1800,6,20800
+711,Skoda,Octavia,2022,CNG,Automatic,630000,16.6,1200,7,18100
+712,Renault,Triber,2017,CNG,Manual,2200000,20.5,1200,4,12700
+713,Toyota,Camry,2023,CNG,Manual,3050000,26.5,1200,6,15400
+714,Honda,WR-V,2015,Electric,Automatic,2560000,29.8,1000,7,15800
+715,Maruti Suzuki,Baleno,2019,CNG,Automatic,950000,26.4,1500,4,17500
+716,Mahindra,Scorpio,2017,Diesel,Automatic,1250000,25,1500,4,15600
+717,Hyundai,Creta,2019,Diesel,Automatic,2450000,17.5,1000,5,14800
+718,Mahindra,Thar,2016,CNG,Manual,1110000,15.9,800,4,12300
+719,Volkswagen,Polo,2024,CNG,Automatic,1590000,23.2,1200,5,13100
+720,Mahindra,Bolero,2016,Petrol,Manual,3320000,26.6,1000,6,7800
+721,Maruti Suzuki,Swift,2024,CNG,Manual,2120000,26.1,2000,5,14500
+722,Honda,Jazz,2015,Diesel,Automatic,430000,26.3,1500,5,22600
+723,Volkswagen,Taigun,2017,Diesel,Automatic,2950000,18.3,2000,6,16900
+724,Toyota,Innova,2015,Petrol,Manual,2110000,26.3,800,5,21500
+725,Hyundai,Venue,2018,Diesel,Automatic,2820000,29.8,1500,6,16200
+726,Maruti Suzuki,Swift,2021,Diesel,Automatic,820000,28.1,1800,7,21700
+727,Toyota,Glanza,2016,Electric,Manual,2210000,25.2,2500,5,24700
+728,Tata Motors,Nexon,2023,CNG,Automatic,3170000,26.9,1500,6,24100
+729,Hyundai,Venue,2021,Diesel,Automatic,2100000,16.9,1500,7,18700
+730,Honda,City,2015,Petrol,Manual,2220000,26.8,2000,7,16600
+731,Renault,Triber,2022,CNG,Manual,3400000,15.2,2000,5,19800
+732,Mahindra,XUV700,2020,CNG,Automatic,1500000,22.3,1000,6,15200
+733,Renault,Lodgy,2024,Electric,Manual,480000,25.1,800,7,18800
+734,Renault,Triber,2024,CNG,Manual,2340000,18.1,1800,7,5800
+735,Maruti Suzuki,Dzire,2017,Petrol,Manual,1870000,16.7,1800,4,19700
+736,Hyundai,i10,2022,CNG,Automatic,2060000,21.6,2000,7,8900
+737,Skoda,Superb,2022,Electric,Manual,1240000,12.9,1800,7,23300
+738,Kia,Seltos,2021,CNG,Automatic,790000,13.5,800,7,10400
+739,Tata Motors,Harrier,2023,Petrol,Automatic,2240000,27.5,1200,4,11000
+740,Maruti Suzuki,Dzire,2020,Petrol,Manual,1840000,12.7,1800,5,5600
+741,Hyundai,Creta,2017,Diesel,Automatic,1110000,10.4,1200,5,8600
+742,Mahindra,XUV300,2016,Electric,Manual,3190000,15,1500,6,19400
+743,Renault,Lodgy,2020,Diesel,Automatic,2080000,28.1,1200,4,19200
+744,Kia,Carens,2017,Electric,Automatic,680000,15.4,1500,7,5400
+745,Volkswagen,Virtus,2023,Electric,Manual,630000,28.9,2500,7,20900
+746,Mahindra,XUV300,2021,Petrol,Automatic,2160000,22.2,1000,7,13000
+747,Honda,Amaze,2023,Electric,Manual,1710000,17.5,1800,6,14900
+748,Toyota,Camry,2018,CNG,Automatic,440000,15.5,1800,7,21800
+749,Honda,City,2022,CNG,Manual,1020000,20.5,2500,6,13500
+750,Honda,City,2022,Electric,Automatic,1300000,24.6,1500,5,8200
+751,Volkswagen,Vento,2022,CNG,Manual,2880000,29.6,800,5,5800
+752,Renault,Duster,2018,Electric,Automatic,2330000,28.5,1500,7,9700
+753,Maruti Suzuki,Dzire,2017,Petrol,Manual,3120000,23,1500,6,18700
+754,Hyundai,Venue,2023,Diesel,Automatic,1080000,20.7,2000,5,22600
+755,Mahindra,Bolero,2021,Electric,Automatic,740000,17.3,2500,5,24800
+756,Volkswagen,Virtus,2024,CNG,Automatic,880000,22.5,800,6,23600
+757,Hyundai,Verna,2016,Petrol,Automatic,2300000,19.2,800,5,23300
+758,Mahindra,Scorpio,2022,Petrol,Automatic,460000,12.8,2500,7,15400
+759,Honda,Civic,2022,Diesel,Manual,690000,21.7,1500,7,24200
+760,Tata Motors,Tiago,2019,Petrol,Automatic,2480000,14.7,1000,7,20700
+761,Skoda,Kushaq,2021,Petrol,Automatic,640000,14.3,1800,6,13200
+762,Maruti Suzuki,Baleno,2017,Petrol,Manual,940000,21.3,1500,4,7900
+763,Renault,Triber,2016,Petrol,Manual,530000,16.3,1200,6,20000
+764,Kia,Seltos,2024,Electric,Automatic,410000,23.4,2000,4,22000
+765,Kia,Carnival,2015,CNG,Manual,720000,23.7,2000,6,11000
+766,Renault,Lodgy,2015,CNG,Manual,3310000,13,1000,4,23200
+767,Tata Motors,Altroz,2020,CNG,Automatic,1650000,12.8,1200,7,12300
+768,Kia,Sonet,2023,CNG,Manual,2170000,26.5,2500,5,15000
+769,Skoda,Superb,2021,Diesel,Manual,1830000,16.9,2500,7,19300
+770,Kia,Sonet,2020,CNG,Automatic,1210000,23.1,1500,5,21800
+771,Hyundai,Venue,2020,CNG,Manual,1370000,13.2,1800,4,24600
+772,Hyundai,i20,2015,Petrol,Automatic,2670000,28,800,5,11000
+773,Renault,Kwid,2018,CNG,Automatic,1270000,13.7,1200,6,24800
+774,Kia,Seltos,2020,Electric,Automatic,2860000,19.3,2500,4,19200
+775,Kia,Carens,2023,Petrol,Automatic,3190000,11.4,1000,4,9000
+776,Maruti Suzuki,Dzire,2019,Petrol,Manual,2070000,20.1,1500,4,18300
+777,Tata Motors,Altroz,2023,Petrol,Manual,1330000,29.6,1000,4,13100
+778,Volkswagen,Polo,2023,CNG,Automatic,2420000,11.8,2000,6,8300
+779,Skoda,Kushaq,2019,Diesel,Automatic,3000000,26.3,1200,4,17900
+780,Maruti Suzuki,Dzire,2021,CNG,Automatic,3020000,13.8,1800,5,17100
+781,Tata Motors,Harrier,2021,CNG,Manual,2310000,24.4,1000,5,12300
+782,Kia,Carnival,2015,Diesel,Automatic,3360000,24.2,2500,6,5500
+783,Hyundai,i20,2018,Diesel,Manual,2570000,21.2,2500,6,7200
+784,Mahindra,XUV300,2020,Diesel,Automatic,1020000,12.8,800,7,7800
+785,Hyundai,Venue,2023,Electric,Automatic,2580000,14.4,1200,5,18000
+786,Volkswagen,Vento,2020,Electric,Automatic,2010000,12.5,1200,5,24300
+787,Skoda,Superb,2019,Diesel,Manual,2890000,27.7,1200,6,21500
+788,Hyundai,i10,2019,Diesel,Manual,2920000,17.2,1800,6,10800
+789,Hyundai,i20,2020,Diesel,Automatic,460000,15.2,1800,4,21600
+790,Renault,Kiger,2017,CNG,Manual,1370000,10.3,1500,5,6000
+791,Honda,Civic,2024,CNG,Manual,3180000,10.2,800,4,6100
+792,Skoda,Octavia,2016,Petrol,Manual,1490000,10.2,1000,6,5700
+793,Mahindra,XUV300,2019,Electric,Automatic,1860000,15,800,6,20200
+794,Kia,Carnival,2019,Diesel,Automatic,3450000,19.8,800,6,17500
+795,Maruti Suzuki,Swift,2017,CNG,Automatic,1960000,15.9,2500,6,7800
+796,Honda,Jazz,2021,Electric,Manual,3390000,22.2,1200,7,19500
+797,Maruti Suzuki,Baleno,2021,Petrol,Manual,2820000,12.9,2500,7,8500
+798,Maruti Suzuki,Swift,2020,Petrol,Manual,1420000,22.9,1000,5,20500
+799,Kia,Carnival,2018,CNG,Manual,800000,15.6,800,7,10300
+800,Skoda,Kushaq,2018,Electric,Manual,1700000,22.9,1200,5,13900
+801,Hyundai,i10,2021,Electric,Manual,2470000,24.4,1000,7,17900
+802,Kia,Carnival,2016,Electric,Manual,2080000,27.8,1000,7,25000
+803,Toyota,Fortuner,2019,Petrol,Manual,1940000,29.5,1000,7,5200
+804,Maruti Suzuki,Baleno,2017,Petrol,Manual,2310000,22.9,1200,6,19700
+805,Toyota,Urban Cruiser,2018,Electric,Automatic,1170000,10.1,2500,7,12400
+806,Hyundai,i10,2015,Petrol,Manual,2980000,13,800,4,6900
+807,Volkswagen,Polo,2023,Petrol,Automatic,3460000,28.8,2000,6,22400
+808,Maruti Suzuki,Swift,2022,Electric,Manual,720000,25.5,800,6,8000
+809,Maruti Suzuki,Dzire,2018,Electric,Automatic,1350000,28.1,2500,7,7700
+810,Volkswagen,Vento,2017,Petrol,Manual,2670000,14.8,2500,5,13100
+811,Maruti Suzuki,Swift,2021,Diesel,Automatic,1060000,24.2,1500,6,21700
+812,Toyota,Innova,2020,Petrol,Manual,610000,16.6,2500,7,8600
+813,Hyundai,i10,2020,CNG,Automatic,3310000,23.4,1000,7,10400
+814,Mahindra,Thar,2017,Petrol,Manual,450000,16,1800,6,18400
+815,Mahindra,Bolero,2020,Electric,Manual,2060000,14.2,1800,4,10000
+816,Tata Motors,Nexon,2019,Petrol,Manual,1820000,12.9,800,7,17700
+817,Maruti Suzuki,Baleno,2021,Diesel,Manual,2380000,19,800,4,6300
+818,Kia,EV6,2020,Petrol,Manual,1330000,22.5,2500,6,16000
+819,Toyota,Fortuner,2022,Diesel,Manual,2930000,13.6,1800,5,14800
+820,Hyundai,Creta,2020,CNG,Automatic,1070000,17,1000,5,8000
+821,Toyota,Fortuner,2023,Petrol,Automatic,2090000,17.6,2000,5,15100
+822,Tata Motors,Nexon,2017,Electric,Manual,2750000,10.5,1500,6,21500
+823,Skoda,Slavia,2021,Petrol,Automatic,2420000,27.4,1800,4,12000
+824,Honda,WR-V,2024,Diesel,Automatic,890000,21.9,1500,7,9600
+825,Skoda,Kushaq,2018,Electric,Manual,2880000,27.6,2500,6,11600
+826,Renault,Triber,2022,Electric,Automatic,2290000,18,1000,4,21400
+827,Honda,Civic,2020,Petrol,Manual,2510000,26.4,1000,6,8900
+828,Renault,Kwid,2024,Electric,Automatic,1500000,24.8,1800,7,19200
+829,Kia,Carnival,2024,Petrol,Manual,2820000,29.2,2000,7,8500
+830,Tata Motors,Harrier,2024,Electric,Automatic,1570000,18.3,2500,6,14100
+831,Kia,Sonet,2017,CNG,Automatic,1860000,10.5,1200,7,14700
+832,Skoda,Octavia,2021,Diesel,Manual,1270000,13.9,1500,6,21200
+833,Toyota,Urban Cruiser,2015,Electric,Automatic,3230000,28.7,2000,4,7400
+834,Mahindra,XUV300,2022,Diesel,Manual,2050000,16.8,2000,5,12500
+835,Renault,Kiger,2023,Petrol,Automatic,1350000,12,1000,6,13400
+836,Tata Motors,Nexon,2024,Diesel,Automatic,730000,10.9,2500,5,18200
+837,Kia,Sonet,2015,CNG,Automatic,2260000,27.9,1200,4,9700
+838,Volkswagen,Vento,2020,CNG,Automatic,2730000,27.5,1800,4,14000
+839,Hyundai,i20,2024,Electric,Manual,3110000,18.3,2500,7,23900
+840,Skoda,Kushaq,2020,Petrol,Manual,810000,22.9,1500,4,23100
+841,Honda,Jazz,2021,CNG,Automatic,1010000,16.6,1200,6,17900
+842,Skoda,Rapid,2017,Electric,Automatic,620000,30,1800,6,16200
+843,Volkswagen,Virtus,2022,Diesel,Automatic,2320000,29.9,1200,6,8900
+844,Toyota,Camry,2018,Diesel,Manual,730000,24.5,1200,5,24000
+845,Maruti Suzuki,Dzire,2015,CNG,Manual,2970000,22,2500,7,16400
+846,Toyota,Innova,2016,CNG,Automatic,2410000,13.2,1200,5,22700
+847,Volkswagen,Vento,2015,Electric,Manual,660000,16.6,2000,5,13200
+848,Kia,Seltos,2022,Electric,Manual,1390000,19.1,1000,5,17200
+849,Toyota,Urban Cruiser,2019,CNG,Automatic,1090000,14.1,1000,7,18300
+850,Skoda,Kushaq,2016,Diesel,Automatic,1100000,10.9,1500,4,11500
+851,Tata Motors,Tiago,2017,Petrol,Automatic,3310000,15.1,1500,4,17200
+852,Honda,Amaze,2020,CNG,Manual,2190000,28.3,800,5,23900
+853,Skoda,Slavia,2023,Diesel,Automatic,1880000,28.3,800,6,19200
+854,Skoda,Slavia,2016,CNG,Automatic,1400000,29.2,1200,4,19700
+855,Skoda,Rapid,2021,Electric,Automatic,1590000,29.6,2500,5,20800
+856,Kia,Carens,2017,Petrol,Manual,970000,24.8,1500,4,22300
+857,Toyota,Innova,2024,Diesel,Automatic,1640000,21.1,2000,4,24100
+858,Maruti Suzuki,Baleno,2024,Diesel,Manual,3030000,18.6,1800,4,19700
+859,Skoda,Rapid,2015,Electric,Automatic,2020000,18.9,1500,4,18000
+860,Maruti Suzuki,Baleno,2016,Electric,Automatic,2950000,10.1,2500,6,16700
+861,Skoda,Octavia,2021,Petrol,Manual,3050000,24.3,1500,5,24900
+862,Skoda,Slavia,2023,Petrol,Manual,1230000,17.8,1200,5,15200
+863,Toyota,Innova,2015,Electric,Automatic,1410000,14.2,1500,7,24000
+864,Skoda,Rapid,2019,Diesel,Manual,2670000,28,1800,5,24500
+865,Volkswagen,Vento,2018,CNG,Automatic,2260000,27.1,1500,4,22300
+866,Volkswagen,Polo,2024,CNG,Automatic,970000,10.1,1000,7,14100
+867,Renault,Triber,2020,CNG,Manual,680000,11.9,2500,6,5500
+868,Tata Motors,Harrier,2016,Petrol,Manual,3220000,21.7,2500,6,19600
+869,Mahindra,XUV300,2019,CNG,Manual,2410000,17.5,1800,4,7200
+870,Hyundai,i10,2019,Electric,Automatic,700000,25.5,1500,6,16900
+871,Hyundai,Verna,2024,Diesel,Manual,2900000,29.7,1000,7,22300
+872,Renault,Duster,2022,CNG,Manual,1610000,19.1,1800,4,17200
+873,Mahindra,Thar,2021,Electric,Manual,1660000,13.6,1800,6,24000
+874,Skoda,Octavia,2015,Petrol,Manual,890000,11.4,2500,4,22500
+875,Honda,Amaze,2024,Petrol,Automatic,1830000,14.6,1200,7,5000
+876,Renault,Kwid,2024,Electric,Automatic,1870000,20.3,1200,5,16400
+877,Skoda,Kushaq,2018,Petrol,Automatic,2070000,10.3,1000,5,10500
+878,Kia,Sonet,2018,CNG,Manual,3220000,11,1800,5,12900
+879,Volkswagen,Tiguan,2015,CNG,Manual,790000,23.4,2500,5,9000
+880,Hyundai,i10,2022,CNG,Automatic,1830000,29.2,1200,5,15100
+881,Skoda,Kushaq,2019,Petrol,Automatic,1700000,11.7,2000,7,22800
+882,Renault,Kwid,2015,Electric,Manual,1450000,22.2,1500,4,6600
+883,Skoda,Rapid,2021,Petrol,Manual,2080000,16.7,2000,6,16400
+884,Skoda,Slavia,2019,CNG,Automatic,2090000,26.2,1000,4,10000
+885,Kia,Carnival,2019,Electric,Automatic,510000,21.5,800,4,7900
+886,Kia,Carens,2023,Petrol,Manual,3280000,21,800,6,8500
+887,Mahindra,XUV700,2024,CNG,Automatic,1600000,17.4,1200,7,19800
+888,Skoda,Kushaq,2020,Petrol,Automatic,900000,27.9,1200,5,8900
+889,Hyundai,Creta,2019,CNG,Manual,1280000,29.4,1800,6,21100
+890,Hyundai,Venue,2019,CNG,Automatic,430000,25.5,1200,7,12700
+891,Toyota,Innova,2018,Electric,Automatic,610000,15.5,2000,4,21800
+892,Skoda,Superb,2020,CNG,Automatic,2010000,26.4,2000,5,9600
+893,Skoda,Superb,2019,Electric,Manual,2900000,17.9,2000,4,16100
+894,Volkswagen,Virtus,2023,Diesel,Automatic,910000,13.5,1000,7,5100
+895,Renault,Kwid,2023,Petrol,Automatic,800000,21,1000,7,19400
+896,Maruti Suzuki,WagonR,2020,Diesel,Manual,1310000,10.7,1500,7,8000
+897,Tata Motors,Harrier,2015,Petrol,Manual,2190000,28,800,6,14300
+898,Toyota,Urban Cruiser,2019,Diesel,Manual,2180000,28.1,2000,7,9300
+899,Renault,Triber,2016,Petrol,Manual,550000,17.1,2500,7,23600
+900,Renault,Kwid,2016,Petrol,Manual,960000,19.4,1200,5,16800
+901,Maruti Suzuki,Ertiga,2023,Electric,Automatic,3500000,13,1200,5,11500
+902,Renault,Duster,2023,Electric,Automatic,1290000,21.7,1200,4,17300
+903,Hyundai,Venue,2021,Diesel,Manual,2850000,11.6,1000,6,6000
+904,Renault,Kwid,2022,Diesel,Automatic,2060000,19,1500,4,17300
+905,Maruti Suzuki,Baleno,2022,Electric,Manual,1120000,28.6,2000,4,23400
+906,Skoda,Kushaq,2019,Petrol,Automatic,2570000,10.1,1000,4,18600
+907,Hyundai,i20,2023,Petrol,Automatic,1950000,14.7,1800,6,13000
+908,Renault,Triber,2018,Electric,Manual,2470000,11,1200,5,6200
+909,Hyundai,i10,2015,CNG,Manual,2330000,29.8,1800,5,11500
+910,Renault,Kwid,2016,Petrol,Manual,2860000,28.9,2000,6,11200
+911,Volkswagen,Polo,2021,Electric,Automatic,2790000,23.7,2000,6,12800
+912,Maruti Suzuki,Ertiga,2015,CNG,Manual,1170000,23.9,800,7,13900
+913,Toyota,Fortuner,2017,Electric,Automatic,2190000,27.9,800,5,6000
+914,Hyundai,i20,2016,Petrol,Automatic,1570000,24,1200,4,23000
+915,Honda,Jazz,2019,Diesel,Automatic,1570000,22.7,2000,4,19000
+916,Mahindra,XUV700,2016,Electric,Automatic,2630000,25.5,1500,7,10000
+917,Tata Motors,Punch,2020,Diesel,Manual,1090000,27.5,1000,6,24900
+918,Renault,Lodgy,2017,Electric,Manual,3190000,17.3,1500,7,11100
+919,Mahindra,Thar,2020,CNG,Manual,2640000,27.6,2000,5,18200
+920,Volkswagen,Taigun,2019,CNG,Manual,800000,13.3,2000,4,10000
+921,Hyundai,i20,2019,Diesel,Automatic,2040000,28.9,800,6,19500
+922,Volkswagen,Virtus,2020,Electric,Manual,1710000,17.4,1800,7,15700
+923,Renault,Kwid,2016,CNG,Manual,600000,27.8,1200,5,20100
+924,Volkswagen,Polo,2021,Petrol,Automatic,1040000,29.9,1500,5,14800
+925,Honda,Jazz,2019,Petrol,Automatic,3430000,18,2000,6,6700
+926,Maruti Suzuki,Ertiga,2024,Diesel,Automatic,1310000,27.3,1000,5,13900
+927,Maruti Suzuki,Ertiga,2024,CNG,Manual,2440000,15.5,800,5,8700
+928,Toyota,Camry,2021,CNG,Automatic,1730000,22.3,1500,7,19100
+929,Kia,EV6,2018,Diesel,Automatic,1350000,22.4,1500,7,23700
+930,Volkswagen,Vento,2024,Diesel,Automatic,2860000,12.6,1200,5,20500
+931,Mahindra,XUV300,2024,Petrol,Manual,3340000,22.1,1500,4,12300
+932,Honda,Jazz,2023,CNG,Automatic,2780000,24.5,1500,6,10200
+933,Toyota,Innova,2021,CNG,Manual,2260000,28.3,1500,4,15100
+934,Volkswagen,Virtus,2024,CNG,Manual,2140000,26.3,2000,6,16300
+935,Hyundai,i20,2020,Petrol,Manual,1600000,17.4,1200,5,15600
+936,Maruti Suzuki,Baleno,2015,Petrol,Automatic,1990000,14.8,800,5,7400
+937,Hyundai,Creta,2015,CNG,Manual,2430000,14.4,2500,5,22200
+938,Hyundai,Creta,2021,Diesel,Manual,1100000,28.4,1500,5,9800
+939,Kia,Carens,2017,CNG,Automatic,530000,29.4,800,7,5700
+940,Maruti Suzuki,Swift,2021,CNG,Manual,3420000,22.5,1000,4,5900
+941,Skoda,Rapid,2017,CNG,Automatic,1320000,24.9,2000,5,23400
+942,Honda,Amaze,2022,Petrol,Automatic,2080000,10.5,800,7,15200
+943,Honda,Amaze,2021,CNG,Automatic,670000,14.9,1800,7,17700
+944,Mahindra,Thar,2023,CNG,Automatic,1630000,22.3,2000,6,11400
+945,Hyundai,Venue,2020,Electric,Automatic,3270000,17.2,2500,7,17700
+946,Kia,Sonet,2015,Petrol,Automatic,3250000,14.7,2500,5,14600
+947,Hyundai,Verna,2024,Petrol,Manual,2400000,29,1500,5,16200
+948,Honda,Amaze,2022,Electric,Automatic,2230000,18.9,1800,4,23700
+949,Volkswagen,Polo,2016,Petrol,Manual,2900000,16.2,1000,7,21400
+950,Tata Motors,Harrier,2022,Electric,Automatic,1750000,17,1000,6,24700
+951,Tata Motors,Nexon,2024,Diesel,Manual,1740000,13.7,2000,6,18500
+952,Skoda,Superb,2023,Petrol,Automatic,430000,28.3,1000,7,20200
+953,Hyundai,i10,2016,Diesel,Automatic,620000,14.2,1800,5,20100
+954,Volkswagen,Tiguan,2017,Diesel,Manual,2600000,12.8,2500,5,10000
+955,Mahindra,Thar,2019,Diesel,Automatic,1510000,15.5,1200,7,14900
+956,Toyota,Camry,2015,Petrol,Automatic,3380000,19.8,1500,5,12500
+957,Kia,Sonet,2023,Petrol,Manual,2560000,27.4,1500,7,16100
+958,Tata Motors,Nexon,2021,Electric,Automatic,750000,29.9,2000,5,16600
+959,Renault,Triber,2023,CNG,Automatic,1960000,26.1,800,6,20500
+960,Skoda,Kushaq,2024,Petrol,Manual,2930000,25.6,2000,5,22600
+961,Mahindra,Bolero,2021,Electric,Automatic,2150000,17.7,1800,6,16300
+962,Toyota,Urban Cruiser,2015,CNG,Manual,580000,27.7,2000,7,21600
+963,Maruti Suzuki,Swift,2024,Diesel,Manual,2770000,19.7,2000,7,9300
+964,Kia,Carnival,2023,CNG,Automatic,1520000,21.3,1200,6,9400
+965,Toyota,Innova,2017,Diesel,Automatic,980000,13.2,1000,6,16400
+966,Kia,Carens,2022,Electric,Manual,2900000,16.6,800,7,21300
+967,Mahindra,XUV700,2021,Electric,Manual,2070000,13.5,1500,6,14800
+968,Kia,Sonet,2022,Electric,Automatic,3130000,13.6,1200,4,22800
+969,Volkswagen,Tiguan,2018,Electric,Manual,1100000,11.6,1800,5,17900
+970,Maruti Suzuki,Ertiga,2024,Diesel,Automatic,790000,17.8,1000,4,7900
+971,Mahindra,XUV300,2016,Electric,Manual,2760000,18.6,1500,5,14800
+972,Kia,Sonet,2020,Electric,Manual,1170000,10,1000,6,12200
+973,Maruti Suzuki,Ertiga,2023,CNG,Manual,850000,11.2,1200,5,16900
+974,Skoda,Rapid,2023,Diesel,Automatic,1940000,15.8,1200,5,19200
+975,Skoda,Kushaq,2024,CNG,Automatic,2440000,10.4,1200,5,18900
+976,Maruti Suzuki,Swift,2016,Electric,Manual,940000,24.8,1800,4,13000
+977,Hyundai,Verna,2018,Petrol,Manual,2220000,17.4,2000,7,16700
+978,Skoda,Rapid,2023,Electric,Manual,2790000,11.5,1500,7,6000
+979,Honda,City,2024,Petrol,Manual,1770000,24.4,2000,7,15300
+980,Toyota,Fortuner,2020,CNG,Automatic,3110000,10.4,800,6,16000
+981,Kia,Carens,2016,Petrol,Manual,3260000,24.7,2500,5,6000
+982,Renault,Lodgy,2024,Electric,Manual,940000,25.6,800,7,10700
+983,Kia,Carens,2018,CNG,Automatic,1590000,25,2500,6,17100
+984,Toyota,Camry,2016,Diesel,Automatic,1470000,17.6,1000,7,18700
+985,Volkswagen,Polo,2021,Diesel,Automatic,2640000,20.4,2000,5,21700
+986,Toyota,Innova,2018,CNG,Automatic,1410000,22.5,2000,4,5900
+987,Honda,Amaze,2020,Diesel,Automatic,2850000,14.5,800,4,11700
+988,Toyota,Fortuner,2017,CNG,Automatic,1380000,27,2000,6,17900
+989,Toyota,Glanza,2015,CNG,Automatic,2480000,19,1800,7,19300
+990,Hyundai,Creta,2018,CNG,Manual,2830000,21.8,1200,7,12500
+991,Mahindra,XUV300,2018,CNG,Manual,2560000,17.1,1500,5,16000
+992,Mahindra,Bolero,2017,Electric,Automatic,420000,20.8,800,5,10400
+993,Hyundai,Venue,2017,Electric,Automatic,410000,24.3,1200,7,13700
+994,Honda,Civic,2020,CNG,Manual,1320000,28.3,1800,4,8800
+995,Toyota,Camry,2018,Diesel,Automatic,3200000,23.8,800,4,9100
+996,Hyundai,Creta,2018,CNG,Manual,1430000,28.7,1500,7,17500
+997,Mahindra,XUV300,2022,Diesel,Automatic,2520000,12.1,1800,5,15600
+998,Volkswagen,Virtus,2017,CNG,Manual,940000,25,2500,6,12400
+999,Maruti Suzuki,Dzire,2024,Electric,Manual,1860000,10.6,1800,7,14100
+1000,Volkswagen,Virtus,2020,Diesel,Automatic,820000,12.7,2000,6,24400

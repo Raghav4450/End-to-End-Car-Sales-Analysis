@@ -1,23 +1,5 @@
 📊 End-to-End-Car-Sales-Analysis
 
-## 📁 Project Structure
-│
-├── 📁 data
-│   ├── car_sales_raw.csv
-│└── car_sales_cleaned.csv
-│
-├── 📁 sql
-│   └── car_sales_analysis.sql
-│
-├── 📁 powerbi
-│   └── car_sales_dashboard.pbix
-│
-├── 📁 screenshots
-│   └── dashboard_preview.png
-│
-└── 📄 README.md
-
-
 ## 📌 Project Introduction
 This is an end-to-end car sales analysis project based on the Indian car market.
 The goal of this project is to analyze car pricing, fuel types, mileage, and maintenance costs
